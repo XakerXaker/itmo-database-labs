@@ -1,6 +1,3 @@
--- Практическая работа 3. Выборка из нескольких таблиц (JOIN)
--- СУБД: Microsoft SQL Server (T-SQL), база данных AdventureWorks
-
 -- 1. Название продукта и категории для товаров цвета Red с ценой не менее 100
 SELECT p.Name AS ProductName, pc.Name AS CategoryName
 FROM Production.Product AS p

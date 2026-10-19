@@ -1,6 +1,3 @@
--- Практическая работа 1. SELECT, WHERE, ORDER BY
--- СУБД: Microsoft SQL Server (T-SQL), база данных AdventureWorks
-
 -- 1. Названия продуктов, цвет и размер
 SELECT p.Name, p.Color, p.Size
 FROM Production.Product AS p;

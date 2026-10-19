@@ -1,5 +1,3 @@
--- Практическая работа 5. Запросы как источник данных, ОТВ
--- СУБД: Microsoft SQL Server (T-SQL), база данных AdventureWorks
 --
 -- «Факт покупки» – строка в Sales.SalesOrderDetail,
 -- стоимость чека – SUM(UnitPrice * OrderQty).

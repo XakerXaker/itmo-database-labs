@@ -1,6 +1,3 @@
--- Практическая работа 2. GROUP BY
--- СУБД: Microsoft SQL Server (T-SQL), база данных AdventureWorks
-
 -- 1. Количество товаров каждого цвета, цена которых не меньше 30
 SELECT p.Color, COUNT(*) AS ProductCount
 FROM Production.Product AS p

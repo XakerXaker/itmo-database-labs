@@ -1,6 +1,3 @@
--- Практическая работа 6. Оконные функции и предложение OVER
--- СУБД: Microsoft SQL Server (T-SQL), база данных AdventureWorks
-
 -- 1. Доля продаж каждого продукта в стоимости чека
 SELECT sod.SalesOrderID,
        sod.ProductID,
