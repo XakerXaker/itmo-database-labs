@@ -1,4 +1,3 @@
---
 -- «Факт покупки» – строка в Sales.SalesOrderDetail,
 -- стоимость чека – SUM(UnitPrice * OrderQty).
 
